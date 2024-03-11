@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-akemi-243349211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akmxsec?igsh=Z3Zmb3c4a3hjang5&utm_source=qr)
 
-![Akmxy GitHub stats](https://github-readme-stats.vercel.app/api?username=akmxy&show_icons=true&theme=radical)
+![Akmxy GitHub stats](https://github-readme-stats.vercel.app/api?username=akmxy&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia:
 
